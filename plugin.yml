@@ -1,8 +1,9 @@
-name: AcidIsland
+name: AcidIsland-Fix
 main: MyPlot\MyPlot
-version: 3.2.9
+version: 4.0
 api: [1.2.0, 2.0.0, 3.0.0, 4.0.0]
-author: KaysilGMVN
+author: Kaysil
+Editor: Kaysil
 softdepend: [EconomyAPI, PocketMoney]
 
 permissions:
