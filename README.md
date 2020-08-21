@@ -1,4 +1,7 @@
-# AcidIsland-Fix
-* User manual
-- Frist use /is generator (world name) to create Island world
-- /is help to show all command
+# AcidIsland
+# Fixed by Kaysil
+#### How to use?
+- Put it to your's plugins folder then start your server
+- Using /is help to show all the commands
+- Using /is generate <island's world name>
+- Using /mw (Multiworld plugin) tp <your island's world name>
